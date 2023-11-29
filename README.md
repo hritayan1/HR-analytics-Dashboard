@@ -1,4 +1,4 @@
-# HR-analytics-Dashboard
+# HR-analytics-Dashboard using Power BI
 Creating an HR analytics dashboard using Power BI with the specified Key Performance Indicators (KPIs) is a great way to visualize and analyze important HR metrics. Let's break down the summary for each KPI:
 Here I have created an dashboard using Power BI. In this project I ve taken 6 KPIs.
 ## Count of Employees:
